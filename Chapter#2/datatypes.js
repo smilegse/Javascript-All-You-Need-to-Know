@@ -52,7 +52,15 @@
 
 /******* Null vs Undefined *********/
 
-var abc 
-var xyz = null
+// var abc 
+// var xyz = null
 
-console.log(abc, xyz)
+// console.log(abc, xyz)
+
+
+/******* Hexadecimal and Octal Numbers *********/
+
+var hex = 0xff
+var oct = 0455
+console.log(hex)
+console.log(oct)
